@@ -6,8 +6,8 @@ As a new employee at PyBer, I have been assigned the task of analyzing PyBer's r
 
 
 ## Resources
- -Data Source: city_data.csv, ride_data.csv
- -Software: Python 3.10.5, Jupyter Notebook 6.4.8
+-Data Source: city_data.csv, ride_data.csv
+-Software: Python 3.10.5, Jupyter Notebook 6.4.8
  
 ## Results
 Grouping the data by city type (Urban, Suburban, Rural) showed that the more densely populated the city type, the more rides, drivers, and total fares. Higher density of the city type also returned a lower average fare per ride and driver. These correlations were true for every week of the final analysis. 
