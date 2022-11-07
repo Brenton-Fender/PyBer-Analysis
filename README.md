@@ -11,6 +11,8 @@ As a new employee at PyBer, I have been assigned the task of analyzing PyBer's r
  
 ## Results
 Grouping the data by city type (Urban, Suburban, Rural) showed that the more densely populated the city type, the more rides, drivers, and total fares. Higher density of the city type also returned a lower average fare per ride and driver. These correlations were true for every week of the final analysis. 
+
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/105960365/200393502-e4f0edab-f5aa-4eba-ad39-2f0fd18d33fd.png)
 
 
