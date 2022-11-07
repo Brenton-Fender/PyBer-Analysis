@@ -17,7 +17,7 @@ Grouping the data by city type (Urban, Suburban, Rural) showed that the more den
 
 
 ## Summary
-The positive correlation of population density with drivers and usage was expected. With a significantly increased user demand, it would be projected that the number of drivers needed to fill this demand would also increase. However, by calculating an extra statistic that showed the number of riders per driver, I can show that for only urban cities there are more drivers than rides. This would negatively affect the average fare per driver in urban cities. It would be beneficial to PyBer to do this same analysis without inactive drivers. The negative correlation of population density with average fare per ride and driver could probably be further explained if data for distance per ride was provided.
+The positive correlation of population density with drivers and usage was expected. With a significantly increased user demand, it would be projected that the number of drivers needed to fill this demand would also increase. However, by calculating an extra statistic that showed the number of rides per driver, I can show that for only urban cities there are more drivers than rides. This would negatively affect the average fare per driver in urban cities. It would be beneficial to PyBer to do this same analysis without inactive drivers. The negative correlation of population density with average fare per ride and driver could probably be further explained if data for distance per ride was provided.
 
 ### Supplemental Statistics 
 ![rides_per_driver](https://user-images.githubusercontent.com/105960365/200394905-b346455f-4bce-4546-b583-bbe11bd925b0.png)
